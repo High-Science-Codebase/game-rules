@@ -1,0 +1,89 @@
+<font size="25"><b>1. Do not cause a reactor instability event</b></font>
+
+  <b>a.</b> You cannot cause a reactor meltdown or take actions that could result in one under any circumstances.
+  <b>b.</b> If you need to create a distraction, you are permitted to stall the reactor, providing it has no adverse consequences.
+      <b>i.</b> You are not allowed to cause a freezedown event (lowering the core temperature to below 20,000K during the Christmas events).
+  <b>c.</b> If security personnel are present, you are still permitted to cool the reactor down, even if this requires killing them.
+
+
+<font size="25"><b>2. Warn employees before shooting</b></font>
+
+  <b>a.</b> Warnings are only valid if the reason is significant and clearly stated.
+
+  <b>b. Blocking critical interactions</b> (such as buttons and controls):
+      <b>i.</b> Only one warning must be given.
+      <b>ii.</b> You must wait at least <b>15 seconds</b> after the warning was issued before killing them.
+      <b>iii.</b> If the situation is time sensitive (reactor is &gt;80,000K, FFD/Warhead are auto-cancelling, etc.), you do <b>not</b> need to issue a warning to kill the employee.
+
+  <b>c. Orders to leave an area:</b>
+      <b>i.</b> 1 warning must be given before killing.
+      <b>ii.</b> You must wait at least <b>15 seconds</b> after the warning was issued before killing them.
+      <b>iii.</b> You may not take action against the person if they are leaving the area.
+      <b>iv.</b> If an individual is ordered to leave, complies, and then returns, you may kill them without issuing further warnings.
+      <b>v.</b> These orders are only permitted in the <b>warhead zone</b>, <b>computer core zone</b> (excluding the server room), <b>archives</b>, and the <b>ventilation system</b>.
+
+  <b>d. Being disruptive to operations:</b>
+      <b>i.</b> 1 warning must be given before killing.
+      <b>ii.</b> You must wait at least <b>15 seconds</b> after the warning was issued before killing them.
+      <b>iii.</b> Warnings may be issued to an employee if they are:
+          • Continuously messing with the ECFR control room lights
+          • Jumping on your head
+
+  <b>e. Reactor control orders:</b>
+      <b>i.</b> 3 warnings must be given before killing.
+      <b>ii.</b> Warnings may be issued to an employee if they are:
+          • Attempting to cause a meltdown (temperature is &gt;70,000K) by interacting with any coolant, safeguard, e-coolant or laser controls in a way that results in an increase in reactor temperature or reactivity.
+          • Preventing a stall (temperature is &lt;20,000K) by interacting with any coolant, safeguard or laser controls in a way that results in an increase in reactor temperature or reactivity.
+          • Attempting a freezedown during the Christmas event (&lt;30,000K) by interacting with any coolant, safeguard or laser controls in a way that results in an decrease in reactor temperature or reactivity.
+      <b>iii.</b> Warnings should be issued <b>per interaction</b> with the aforementioned systems.
+
+  <b>f. Employees may be killed instantly if they are:</b>
+      <b>i.</b> Causing a meltdown (temperature is &gt;80,000K) by interacting with any coolant, safeguard, e-coolant or laser controls in a way that results in an increase in reactor temperature or reactivity.
+      <b>ii.</b> Causing a freezedown during the Christmas event (&lt;20,000K) by interacting with any coolant, safeguard or laser controls in a way that results in an decrease in reactor temperature or reactivity.
+      <b>iii.</b> Cooperating with security guards (excluding shift tasks), such as sharing your location in chat
+      <b>iv.</b> Attempting to cancel FFD by entering the server room or the computer core zone <b>while the shutdown window is active</b>
+      <b>v.</b> Inside lower or upper archives during warhead data theft
+
+  <b>g. Exceptions:</b>
+      <b>i.</b> Employees may be killed without warnings in <b>crossfire situations</b>.
+      <b>ii.</b> If the temperature is &gt;80,000K and there are many employees in the control room, you can warn all employees not to go near coolant, safeguard, e-coolant or laser controls. After issuing this warning, you may kill any employees that are close to the aforementioned panels.
+          • This permission is only in effect until the shutdown window ends, or until the temperature is lowered to &lt;80,000K.
+          • If you use this rule, you <b>must</b> cool the reactor down — otherwise you risk being punished for a meltdown attempt.
+
+  <b>h.</b> When an employee is killed, their warnings <b>reset</b> — you must start again from the beginning of the warning ladder, following the conditions above.
+
+
+<font size="25"><b>3. Do not exploit, cheat or glitch</b></font>
+
+
+<font size="25"><b>4. Do not be toxic</b></font>
+
+
+<font size="25"><b>5. Do not team with security</b></font>
+
+
+<font size="25"><b>6. Remaining outside security spawn exit doors is prohibited</b></font>
+
+  <b>a.</b> The following security zone doors are considered security spawn exits:
+      <b>i.</b> Sector A cafeteria
+      <b>ii.</b> Sector B cafeteria
+      <b>iii.</b> Sector C hallway (opposite Bunker A2)
+      <b>iv.</b> Warhead zone
+  <b>b.</b> The exit doors in the <b>warhead zone</b> and <b>surface zone</b> are exempt from this rule and may be camped.
+
+
+<font size="25"><b>7. Do not use avatars that give combat superiority (small packages, etc.)</b></font>
+
+
+<font size="25"><b>8. Interfering with the plans of other Chaos Forces members (such as blocking buttons) is prohibited</b></font>
+
+
+<font size="25"><b>9. Abusing loopholes in the rules is strictly prohibited</b></font>
+
+  <b>a.</b> Finding loopholes and <b>not reporting them</b> is equally punishable.
+
+
+<font size="25"><b>10. Do not go AFK for longer than 10 minutes</b></font>
+
+
+<font color="rgb(255,200,0)">⚠️ <b>Any violation of these rules will result in a warning or restriction of your access to the Chaos Forces team.</b> For appeals, visit the community server.</font>
