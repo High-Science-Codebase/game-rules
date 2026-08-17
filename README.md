@@ -2,7 +2,7 @@
 This GitHub repository is used to update the rules shown in game (via their respective menus) without requiring studio updates.
 
 **General Game Rules:**
-- Last Updated: 08/08/2026
+- Last Updated: 17/08/2026
 - Updated By: @klazorix
 
 **Combative Game Rules:**
