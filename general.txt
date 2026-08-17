@@ -10,13 +10,16 @@
 <font size="25"><b>3. Do not harass other players</b></font>
 
   <b>a.</b> Do not say mean or hurtful things to other players.
-  <b>b.</b> Do not repeatedly bother, target or follow a player.
+  <b>b.</b> Do not repeatedly bother players.
 
 
-<font size="25"><b>4. Do not bypass chat filters</b></font>
+<font size="25"><b>4. Do not spam or flood the in-game chats</b></font>
+
+
+<font size="25"><b>5. Do not bypass chat filters</b></font>
 
   <b>a.</b> Do not use spacing, symbols, misspellings, or other tricks to get around the chat filter.
-  <b>b.</b> Intent does not matter. Bypassing the filter is a violation regardless of the reason.
+  <b>b.</b> Punishments are applied for filter bypasses that are considered harmful by the Moderation Team.
 
 
 <font size="25"><b>6. Do not glitch or abuse bugs</b></font>
