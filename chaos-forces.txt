@@ -41,8 +41,8 @@
       <b>i.</b> Causing a meltdown (temperature is &gt;80,000K) by interacting with any coolant, safeguard, e-coolant or laser controls in a way that results in an increase in reactor temperature or reactivity.
       <b>ii.</b> Causing a freezedown during the Christmas event (&lt;20,000K) by interacting with any coolant, safeguard or laser controls in a way that results in an decrease in reactor temperature or reactivity.
       <b>iii.</b> Cooperating with security guards (excluding shift tasks), such as sharing your location in chat
-      <b>iv.</b> Attempting to cancel FFD by entering the server room or the computer core zone <b>while the shutdown window is active</b>
-      <b>v.</b> Inside lower or upper archives during warhead data theft
+      <b>iv.</b> Attempting to cancel FFD by entering the server room or the computer core zone <b>after the blackout</b>
+      <b>v.</b> Inside archives during warhead data theft
 
   <b>g. Exceptions:</b>
       <b>i.</b> Employees may be killed without warnings in <b>crossfire situations</b>.
