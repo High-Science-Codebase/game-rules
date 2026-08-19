@@ -6,5 +6,5 @@ This GitHub repository is used to update the rules shown in game (via their resp
 - Updated By: @klazorix
 
 **Combative Game Rules:**
-- Last Updated: 23/07/2026
+- Last Updated: 19/08/2026
 - Updated By: @klazorix
